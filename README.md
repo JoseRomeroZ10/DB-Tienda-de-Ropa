@@ -1,7 +1,8 @@
 BASE DE DATOS DE " TIENDA DE ROPA" 
-REALIZADO POR JOSE ROMERO
+Realizado por Jose Romero
 
-ESTA REALIZADO CON PYTHON Y FLASK POR LO QUE SE DEBE INSTALAR LO SIGUIENTE PARA PODER EJECUTARLO:
+Esta realizado con python por lo que debera install lo siguiente para poder ejecutarlo:
+
 pip install Flask 
 pip install mysql-connector-python==8.0.29 
 pip install urllib3<2                                                                                                                          
